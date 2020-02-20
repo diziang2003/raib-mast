@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="rain" />
+      <artifact name="rain:war" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8ea6f95-d739-4871-ac57-38f654f4a77b" name="Default" comment="实现首页展示雨量信息&#10;调整首页信息倒序排列&#10;配置web.xml，实现打开首页自动显示所有雨量信息&#10;构建war包&#10;编写新增雨量信息的页面">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/dao/BaseDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/dao/BaseDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/dao/RainManageDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/dao/RainManageDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/service/RainManagerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/service/RainManagerService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rain/dao/BaseDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rain/dao/BaseDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rain/dao/RainManageDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rain/dao/RainManageDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rain/service/RainManagerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rain/service/RainManagerService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rain.iml" afterDir="false" />
-    </list>
+    <list default="true" id="c8ea6f95-d739-4871-ac57-38f654f4a77b" name="Default" comment="实现首页展示雨量信息&#10;调整首页信息倒序排列&#10;配置web.xml，实现打开首页自动显示所有雨量信息&#10;构建war包&#10;编写新增雨量信息的页面" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,9 +282,9 @@
     <list>
       <item itemvalue="Application.TestConnection" />
       <item itemvalue="Application.TestAdd" />
+      <item itemvalue="JavaScript Debug.index.jsp" />
       <item itemvalue="Tomcat Server.Tomcat 8.0.30" />
       <item itemvalue="Tomcat Server.index.jsp" />
-      <item itemvalue="JavaScript Debug.index.jsp" />
     </list>
     <recent_temporary>
       <list>
@@ -321,7 +310,7 @@
       <workItem from="1582069284942" duration="600000" />
       <workItem from="1582080041761" duration="4594000" />
       <workItem from="1582158108150" duration="5478000" />
-      <workItem from="1582169924407" duration="186000" />
+      <workItem from="1582169924407" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="实现首页展示雨量信息">
       <created>1582082349627</created>
@@ -344,7 +333,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582162822803</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="实现首页展示雨量信息&#10;调整首页信息倒序排列&#10;配置web.xml，实现打开首页自动显示所有雨量信息&#10;构建war包&#10;编写新增雨量信息的页面">
+      <created>1582170167587</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582170167587</updated>
+    </task>
+    <task id="LOCAL-00005" summary="实现首页展示雨量信息&#10;调整首页信息倒序排列&#10;配置web.xml，实现打开首页自动显示所有雨量信息&#10;构建war包&#10;编写新增雨量信息的页面">
+      <created>1582170214025</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582170214025</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
