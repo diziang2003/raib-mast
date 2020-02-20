@@ -6,8 +6,17 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8ea6f95-d739-4871-ac57-38f654f4a77b" name="Default" comment="实现首页展示雨量信息&#10;调整首页信息倒序排列&#10;配置web.xml，实现打开首页自动显示所有雨量信息&#10;构建war包&#10;编写新增雨量信息的页面">
+    <list default="true" id="c8ea6f95-d739-4871-ac57-38f654f4a77b" name="Default" comment="dao还有servrice&#10;以上两个测试方法">
+      <change afterPath="$PROJECT_DIR$/src/filter/Encodefilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/AddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/js/jquery-1.8.3.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/rain/rain.war" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/rain/rain.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/web_war_exploded/add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/web_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +95,9 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\untitled2\rain\web\statics\js" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\git-project\rain\web\WEB-INF\lib" />
     </key>
@@ -356,7 +368,7 @@
       <workItem from="1582080041761" duration="4594000" />
       <workItem from="1582158108150" duration="5478000" />
       <workItem from="1582169924407" duration="307000" />
-      <workItem from="1582170281788" duration="5019000" />
+      <workItem from="1582170281788" duration="13799000" />
     </task>
     <task id="LOCAL-00001" summary="实现首页展示雨量信息">
       <created>1582082349627</created>
@@ -400,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582170314505</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="dao还有servrice&#10;以上两个测试方法">
+      <created>1582183805022</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582183805022</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -423,7 +442,8 @@
     <MESSAGE value="实现首页展示雨量信息" />
     <MESSAGE value="实现首页展示雨量信息&#10;调整首页信息倒序排列&#10;配置web.xml，实现打开首页自动显示所有雨量信息&#10;构建war包" />
     <MESSAGE value="实现首页展示雨量信息&#10;调整首页信息倒序排列&#10;配置web.xml，实现打开首页自动显示所有雨量信息&#10;构建war包&#10;编写新增雨量信息的页面" />
-    <option name="LAST_COMMIT_MESSAGE" value="实现首页展示雨量信息&#10;调整首页信息倒序排列&#10;配置web.xml，实现打开首页自动显示所有雨量信息&#10;构建war包&#10;编写新增雨量信息的页面" />
+    <MESSAGE value="dao还有servrice&#10;以上两个测试方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="dao还有servrice&#10;以上两个测试方法" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
